@@ -1,5 +1,5 @@
 # CDN2
-The New CDN for mysel
+The New CDN for myself
 
 ### CDN的使用
 1. 如：https://cdn.jsdelivr.net/gh/Emperortino/CDN2
